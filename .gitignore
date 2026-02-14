@@ -1,0 +1,20 @@
+# histories
+.bash_history
+.zsh_history
+
+# vim / tmux swap files
+*.swp
+*.swo
+*.swn
+.viminfo
+
+# zsh cache
+.zcompdump*
+.zsh_sessions
+
+# caches
+.cache/
+.landscape/
+
+# SSH keys (视情况，可选忽略)
+.ssh/
