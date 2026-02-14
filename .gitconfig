@@ -1,0 +1,6 @@
+[user]
+	name = MountainKing
+	email = kingmtwu@gmail.com
+[alias]
+    graph = log --all --graph --decorate --oneline
+
