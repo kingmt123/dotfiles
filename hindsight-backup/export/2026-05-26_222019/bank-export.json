@@ -1,0 +1,102 @@
+{
+  "version": "1",
+  "bank": {
+    "reflect_mission": "Help the user with code development, paper review, and autonomous driving research. Support bilingual (Chinese/English) communication.",
+    "retain_mission": "Always include technical decisions, architectural trade-offs, user preferences, and project conventions. Preserve bilingual context.",
+    "retain_extraction_mode": null,
+    "retain_custom_instructions": null,
+    "retain_chunk_size": null,
+    "enable_observations": null,
+    "observations_mission": null,
+    "disposition_skepticism": 4,
+    "disposition_literalism": null,
+    "disposition_empathy": null,
+    "entity_labels": null,
+    "entities_allow_free_form": null,
+    "retain_default_strategy": null,
+    "retain_strategies": null,
+    "retain_chunk_batch_size": null,
+    "mcp_enabled_tools": null,
+    "consolidation_llm_batch_size": null,
+    "consolidation_source_facts_max_tokens": null,
+    "consolidation_source_facts_max_tokens_per_observation": null,
+    "max_observations_per_scope": null,
+    "reflect_source_facts_max_tokens": null,
+    "llm_gemini_safety_settings": null,
+    "recall_budget_function": null,
+    "recall_budget_fixed_low": null,
+    "recall_budget_fixed_mid": null,
+    "recall_budget_fixed_high": null,
+    "recall_budget_adaptive_low": null,
+    "recall_budget_adaptive_mid": null,
+    "recall_budget_adaptive_high": null,
+    "recall_budget_min": null,
+    "recall_budget_max": null
+  },
+  "mental_models": [
+    {
+      "id": "mm-1bffc6da227e4b3faea4e3aa1743389b",
+      "name": "review",
+      "source_query": "Conduct a critical review of the given information and identify potential issues",
+      "tags": [
+        "hermes-auto"
+      ],
+      "max_tokens": 2048,
+      "trigger": {
+        "mode": "full",
+        "refresh_after_consolidation": false,
+        "fact_types": null,
+        "exclude_mental_models": false,
+        "exclude_mental_model_ids": null,
+        "tags_match": null,
+        "tag_groups": null,
+        "include_chunks": null,
+        "recall_max_tokens": null,
+        "recall_chunks_max_tokens": null
+      }
+    },
+    {
+      "id": "mm-a15faacd23f144fcb41a3208953f6962",
+      "name": "status",
+      "source_query": "Track project progress and summarize current state of ongoing work",
+      "tags": [
+        "hermes-auto"
+      ],
+      "max_tokens": 2048,
+      "trigger": {
+        "mode": "full",
+        "refresh_after_consolidation": false,
+        "fact_types": null,
+        "exclude_mental_models": false,
+        "exclude_mental_model_ids": null,
+        "tags_match": null,
+        "tag_groups": null,
+        "include_chunks": null,
+        "recall_max_tokens": null,
+        "recall_chunks_max_tokens": null
+      }
+    },
+    {
+      "id": "mm-8829922b09424a37be055b5746b57639",
+      "name": "decision",
+      "source_query": "What decisions have been made recently and what were the trade-offs?",
+      "tags": [
+        "hermes-auto"
+      ],
+      "max_tokens": 2048,
+      "trigger": {
+        "mode": "full",
+        "refresh_after_consolidation": false,
+        "fact_types": null,
+        "exclude_mental_models": false,
+        "exclude_mental_model_ids": null,
+        "tags_match": null,
+        "tag_groups": null,
+        "include_chunks": null,
+        "recall_max_tokens": null,
+        "recall_chunks_max_tokens": null
+      }
+    }
+  ],
+  "directives": null
+}

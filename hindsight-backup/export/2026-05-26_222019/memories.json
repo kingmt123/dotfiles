@@ -1,0 +1,2899 @@
+{
+  "total": 119,
+  "exported_at": "2026-05-26_222019",
+  "memories": [
+    {
+      "id": "685bb42c-93d2-4f2f-aedf-1282ff03d37f",
+      "text": "User kingmt's GitHub username is kingmt123.",
+      "type": "observation",
+      "entities": [
+        "diary-bot",
+        "AV papers",
+        "grasp-sim-pipeline",
+        "GitHub",
+        "user",
+        "kingmt"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.667107+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "8fea5f17-e797-4134-9a02-62243e7a8d25",
+      "text": "User kingmt is a Chinese AV/robotics engineer, bilingual in Chinese and English. GitHub: kingmt123. Projects: grasp-sim-pipeline (PyBullet grasping pipeline), diary-bot, AV papers. | Involving: user",
+      "type": "world",
+      "entities": [
+        "AV papers",
+        "diary-bot",
+        "kingmt",
+        "grasp-sim-pipeline",
+        "GitHub",
+        "user"
+      ],
+      "context": "user identity and occupation",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.680807+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_0",
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "2625359c-7f97-45f0-b68b-5d5f8e3ee997",
+      "text": "User kingmt is a Chinese AV/robotics engineer who works bilingually in Chinese and English. | Involving: user (kingmt)",
+      "type": "world",
+      "entities": [
+        "Chinese",
+        "kingmt",
+        "robotics",
+        "user",
+        "AV",
+        "English"
+      ],
+      "context": "user identity and occupation",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657107+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_0",
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "42ae37d8-5393-4b7f-9449-bea81fd8189b",
+      "text": "User's GitHub username is kingmt123. | Involving: user",
+      "type": "world",
+      "entities": [
+        "GitHub",
+        "user",
+        "kingmt"
+      ],
+      "context": "user identity and occupation",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.667107+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_0",
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "5f4c1dfb-4ab3-4579-acd5-a54c8aee51cd",
+      "text": "User kingmt is a Chinese AV/robotics engineer.",
+      "type": "observation",
+      "entities": [
+        "diary-bot",
+        "grasp-sim-pipeline",
+        "AV",
+        "AV papers",
+        "GitHub",
+        "user",
+        "English",
+        "robotics",
+        "kingmt",
+        "Chinese"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657107+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "084de411-680d-4469-ada9-6c4f90446bde",
+      "text": "User kingmt is bilingual in Chinese and English.",
+      "type": "observation",
+      "entities": [
+        "diary-bot",
+        "robotics",
+        "English",
+        "GitHub",
+        "AV",
+        "Chinese",
+        "grasp-sim-pipeline",
+        "AV papers",
+        "kingmt",
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657107+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "1863bb73-67cc-4b21-acf4-0f9676c19075",
+      "text": "User kingmt's projects include grasp-sim-pipeline (a PyBullet grasping pipeline), diary-bot, and AV papers.",
+      "type": "observation",
+      "entities": [
+        "kingmt",
+        "PyBullet",
+        "diary-bot",
+        "AV papers",
+        "GitHub",
+        "user",
+        "grasp-sim-pipeline"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.677107+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "d449d201-e210-4831-b02d-fc91508bef7e",
+      "text": "diary-bot is a project by kingmt for automated diary/note keeping, part of a portfolio alongside grasp-sim-pipeline and AV academic papers. | Involving: kingmt (user)",
+      "type": "world",
+      "entities": [
+        "grasp-sim-pipeline",
+        "diary-bot",
+        "AV papers",
+        "kingmt"
+      ],
+      "context": "project: diary-bot",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981405+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_3",
+      "tags": [
+        "project",
+        "bot"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "14123349-7c5d-4ce6-a045-50d761fe3747",
+      "text": "diary-bot is a project by kingmt for automated diary/note keeping.",
+      "type": "observation",
+      "entities": [
+        "kingmt",
+        "AV papers",
+        "diary-bot",
+        "grasp-sim-pipeline"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981405+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "bot"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "2f7ab9b8-6083-4a95-8c7f-f3308b2ea365",
+      "text": "User runs projects including grasp-sim-pipeline (PyBullet grasping pipeline), diary-bot, and AV papers. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user",
+        "PyBullet",
+        "diary-bot",
+        "AV papers",
+        "grasp-sim-pipeline"
+      ],
+      "context": "user identity and occupation",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.677107+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_0",
+      "tags": [
+        "user-profile",
+        "identity"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "7e01087a-3d0e-482f-b69f-bcb52d3174d2",
+      "text": "User is detail-oriented.",
+      "type": "observation",
+      "entities": [
+        "action-first approach",
+        "factual accuracy",
+        "debugging",
+        "user",
+        "organized tables/lists"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "1d844399-7e86-445f-b6ee-ad0a140aad21",
+      "text": "User uses Hermes Agent and Claude Code as AI assistants.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "Claude Code",
+        "Hermes Agent"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657120+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "ai-tools",
+        "workflow"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "908fc154-99db-44d4-8111-b7040cbed08e",
+      "text": "User is debugging-focused.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "action-first approach",
+        "organized tables/lists",
+        "factual accuracy",
+        "debugging"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "32198ca7-1576-4fcf-8427-53e60e4e9450",
+      "text": "User has a D: drive.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "C: drive"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011817+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "26d3de9c-f730-41a0-9f79-7132bb6667d1",
+      "text": "User values thorough verification after changes.",
+      "type": "observation",
+      "entities": [
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657122+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "c3364fa1-85e2-4e19-9152-76c7042d3999",
+      "text": "User keeps skills synced between Hermes Agent and Claude Code.",
+      "type": "observation",
+      "entities": [
+        "skills",
+        "Claude Code",
+        "user",
+        "Hermes Agent"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657120+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "ai-tools",
+        "workflow"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "357c0946-381c-4ae1-b4f4-cc46eaba4caa",
+      "text": "User works on Autonomous Vehicle (AV) academic papers, including Chinese survey papers on 4D occupancy.",
+      "type": "observation",
+      "entities": [
+        "Autonomous Vehicle",
+        "4D occupancy",
+        "user",
+        "Chinese survey papers",
+        "AV"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981407+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "AV",
+        "project",
+        "paper-review",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "a0ce2fe8-925a-4cce-82bf-88721f1fe728",
+      "text": "On May 25, 2026, user experienced PostgreSQL corruption leading to all Hindsight memories being lost.",
+      "type": "observation",
+      "entities": [
+        "PostgreSQL",
+        "user",
+        "Hindsight"
+      ],
+      "context": null,
+      "occurred_start": "2026-05-25T00:00:00.010000+00:00",
+      "occurred_end": "2026-05-25T00:00:00.010000+00:00",
+      "mentioned_at": "2026-05-25T10:04:38.667119+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "4cf33ac1-4a6b-4599-a1af-df285b0f15f3",
+      "text": "User uses Hermes Agent and Claude Code CLI for AI-assisted development across multiple machines.",
+      "type": "observation",
+      "entities": [
+        "Hermes Agent",
+        "AI-assisted development",
+        "multiple machines",
+        "Claude Code CLI"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021819+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "workflow",
+        "tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "cb8b4844-f6f5-486f-928e-9f484b3e9c7d",
+      "text": "User uses Hermes Agent and Claude Code, keeping skills synced between them. | Involving: user",
+      "type": "world",
+      "entities": [
+        "Hermes Agent",
+        "Claude Code",
+        "user"
+      ],
+      "context": "AI assistant dual workflow",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657120+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_3",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "ai-tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "e08f4c22-494b-45b0-9427-fffac0f1bcc5",
+      "text": "User self-hosts Hindsight.",
+      "type": "observation",
+      "entities": [
+        "local_external",
+        "Hindsight",
+        "DeepSeek v4 Pro",
+        "LLM",
+        "Hermes memory",
+        "hermes",
+        "ghcr.io/vectorize-io/hindsight:latest",
+        "Docker"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "7c677584-ccd7-4dc9-a159-db0eff874096",
+      "text": "User manages multiple machines using ZeroTier/Tailscale networking.",
+      "type": "observation",
+      "entities": [
+        "Windows 10",
+        "user",
+        "Linux",
+        "ZeroTier",
+        "Tailscale"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682364+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "ea9cc722-5885-4ecf-864c-dc03459b6ba6",
+      "text": "User has an Obsidian vault for note-taking.",
+      "type": "observation",
+      "entities": [
+        "Obsidian",
+        "note-taking"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011819+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "workflow",
+        "tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "a075bc11-dc88-4c4f-84d7-d3671a302356",
+      "text": "User is debugging-focused, detail-oriented, prefers action-first approach over suggestions, values factual accuracy and thorough verification after changes, and appreciates organized tables/lists for status overviews and clear 'installed vs pending' breakdowns. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user"
+      ],
+      "context": "work style preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657122+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_4",
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "09b11f61-9092-4832-8ea8-28ad2d8c5086",
+      "text": "User notices incorrect paths.",
+      "type": "observation",
+      "entities": [
+        "organized tables/lists",
+        "user",
+        "action-first approach",
+        "debugging",
+        "factual accuracy"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "29d55bd4-0c3a-40ff-9a1b-52e773ecd5aa",
+      "text": "User uses external bank 'hermes' with Hindsight.",
+      "type": "observation",
+      "entities": [
+        "LLM",
+        "Hermes memory",
+        "local_external",
+        "Docker",
+        "hermes",
+        "Hindsight",
+        "ghcr.io/vectorize-io/hindsight:latest",
+        "DeepSeek v4 Pro"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "07abfb88-3666-4175-b2bd-e77abe060cb1",
+      "text": "User uses built-in Hermes memory with Hindsight.",
+      "type": "observation",
+      "entities": [
+        "Hermes memory",
+        "DeepSeek v4 Pro",
+        "local_external",
+        "LLM",
+        "hermes",
+        "Docker",
+        "Hindsight",
+        "ghcr.io/vectorize-io/hindsight:latest"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "a0760904-e302-4f2b-a8ab-a57f44f5e406",
+      "text": "User is debugging-focused and detail-oriented, notices incorrect paths, unused variables, and docstring errors, values factual accuracy and action-first approach over suggestions, and appreciates organized tables/lists for status overviews. | Involving: user",
+      "type": "world",
+      "entities": [
+        "debugging",
+        "action-first approach",
+        "user",
+        "organized tables/lists",
+        "factual accuracy"
+      ],
+      "context": "work style and preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_4",
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "99568127-9755-40ad-8509-3597b95f9cc1",
+      "text": "User self-hosts Hindsight using Docker image ghcr.io/vectorize-io/hindsight:latest with DeepSeek v4 Pro LLM for long-term memory augmentation, in local_external mode with bank hermes, and also uses built-in Hermes memory. | Involving: user | for long-term memory augmentation",
+      "type": "world",
+      "entities": [
+        "LLM",
+        "Docker",
+        "ghcr.io/vectorize-io/hindsight:latest",
+        "Hermes memory",
+        "hermes",
+        "Hindsight",
+        "local_external",
+        "DeepSeek v4 Pro"
+      ],
+      "context": "Hindsight self-hosting setup",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_2",
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "faa8eef8-41c1-47e2-9d50-fbd6ba15b646",
+      "text": "User uses both Hermes Agent and Claude Code as AI assistants. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user",
+        "Claude Code",
+        "Hermes Agent"
+      ],
+      "context": "AI assistant workflow - Hermes + Claude Code",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682373+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_3",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "ai-tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "58600071-2338-4490-ac49-917ef1b9fb5d",
+      "text": "User uses DeepSeek v4 Pro LLM with Hindsight.",
+      "type": "observation",
+      "entities": [
+        "ghcr.io/vectorize-io/hindsight:latest",
+        "Hindsight",
+        "DeepSeek v4 Pro",
+        "Docker",
+        "hermes",
+        "Hermes memory",
+        "local_external",
+        "LLM"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "53fad143-1e1a-4e01-87c5-3617ba37e0f7",
+      "text": "User values factual accuracy.",
+      "type": "observation",
+      "entities": [
+        "organized tables/lists",
+        "factual accuracy",
+        "debugging",
+        "user",
+        "action-first approach"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "d44b6dbc-2953-4a42-9f3a-daee999cb5e2",
+      "text": "On May 25, 2026, user experienced PostgreSQL corruption leading to all Hindsight memories being lost. | When: 2026-05-25 | Involving: user",
+      "type": "world",
+      "entities": [
+        "user",
+        "PostgreSQL",
+        "Hindsight"
+      ],
+      "context": "Hindsight memory system setup",
+      "occurred_start": "2026-05-25T00:00:00.010000+00:00",
+      "occurred_end": "2026-05-25T00:00:00.010000+00:00",
+      "mentioned_at": "2026-05-25T10:04:38.667119+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_2",
+      "tags": [
+        "user-profile",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "75c800ad-2f31-4a50-859c-7c73a0b08d08",
+      "text": "User notices docstring errors.",
+      "type": "observation",
+      "entities": [
+        "factual accuracy",
+        "action-first approach",
+        "organized tables/lists",
+        "debugging",
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "4ba840d6-f25a-4a1f-bc4c-1c8342117c8b",
+      "text": "User keeps skills synced between Hermes Agent and Claude Code. | Involving: user",
+      "type": "world",
+      "entities": [
+        "Hermes Agent",
+        "user",
+        "skills",
+        "Claude Code"
+      ],
+      "context": "AI assistant workflow - Hermes + Claude Code",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.692373+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_3",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "ai-tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "a7ce849c-d910-43a0-9c23-782e7c4c057f",
+      "text": "User has a CLAUDE.md workflow: global rules in ~/.claude/CLAUDE.md and project-specific rules in ./CLAUDE.md. | Involving: user",
+      "type": "world",
+      "entities": [
+        "./CLAUDE.md",
+        "user",
+        "CLAUDE.md",
+        "~/.claude/CLAUDE.md"
+      ],
+      "context": "AI assistant workflow - Hermes + Claude Code",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.702373+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_3",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "ai-tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "e86554e8-25eb-410d-821c-d55b62771ba4",
+      "text": "User values thorough verification after changes, including checking imports, running DIRECT mode tests, and validating accuracy.",
+      "type": "observation",
+      "entities": [
+        "factual accuracy",
+        "DIRECT mode tests",
+        "imports",
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021808+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "code-review",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "6fce50d4-0aaa-46b3-90ba-351901e5efdb",
+      "text": "User notices unused variables.",
+      "type": "observation",
+      "entities": [
+        "debugging",
+        "action-first approach",
+        "user",
+        "factual accuracy",
+        "organized tables/lists"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "e3e5c333-9ffd-427b-b7aa-e2784426015c",
+      "text": "User appreciates organized tables/lists for status overviews, including clear 'installed vs pending' breakdowns.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "factual accuracy",
+        "debugging",
+        "organized tables/lists",
+        "action-first approach"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657122+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "f6cb4108-e2a5-4954-8d6c-aa1423be9836",
+      "text": "User uses Hermes Agent and Claude Code CLI for AI-assisted development across multiple machines. | Involving: user",
+      "type": "world",
+      "entities": [
+        "Hermes Agent",
+        "AI-assisted development",
+        "multiple machines",
+        "Claude Code CLI"
+      ],
+      "context": "tool ecosystem",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021819+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_5",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "df331761-4f5e-4be6-9e70-54a75f60d021",
+      "text": "User appreciates playful/fun interactions between work (e.g., TTS singing, cute styles, entertainment) and does not want just all-business interactions.",
+      "type": "observation",
+      "entities": [
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011818+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "preferences",
+        "communication"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "35e8b241-cea5-4baa-9782-012cebb18fcd",
+      "text": "User works on Autonomous Vehicle (AV) academic papers, including Chinese survey papers on 4D occupancy. | Involving: user",
+      "type": "world",
+      "entities": [
+        "Chinese survey papers",
+        "AV",
+        "4D occupancy",
+        "user",
+        "Autonomous Vehicle"
+      ],
+      "context": "academic work - AV papers",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981407+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_4",
+      "tags": [
+        "AV",
+        "project",
+        "paper-review",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "a0d0240d-8bfa-4059-b869-5106d0ef61c1",
+      "text": "User has a CLAUDE.md workflow with global rules in ~/.claude/CLAUDE.md and project-specific rules in ./CLAUDE.md.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "CLAUDE.md",
+        "./CLAUDE.md",
+        "~/.claude/CLAUDE.md"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.667120+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "ai-tools",
+        "workflow"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "9a31d244-ac70-4533-b707-14bb6f378d73",
+      "text": "User self-hosts Hindsight Docker with DeepSeek v4 Pro for long-term memory and uses both built-in Hermes memory and Hindsight. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user",
+        "Hindsight",
+        "Hermes memory",
+        "Docker",
+        "DeepSeek v4 Pro"
+      ],
+      "context": "Hindsight memory system setup",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657119+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_2",
+      "tags": [
+        "user-profile",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "255a09e2-feb9-480a-ac51-d92b55a4013b",
+      "text": "User prefers organized tables/lists for status overviews and clear installed vs pending breakdowns.",
+      "type": "observation",
+      "entities": [
+        "pending",
+        "installed",
+        "lists",
+        "tables",
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.031817+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "7e834ffc-a94d-401a-a03c-c2d1ea725b0f",
+      "text": "User's CLAUDE.md workflow uses global rules in ~/.claude/CLAUDE.md and project-specific rules in ./CLAUDE.md. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user",
+        "./CLAUDE.md",
+        "CLAUDE.md"
+      ],
+      "context": "AI assistant dual workflow",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.667120+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_3",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "ai-tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "4b9a3179-c374-4a3b-8846-814a478a8461",
+      "text": "User has a paper review workflow: review, write report with severity levels (P0-P3), fix P0/P1, then after user says '继续', fix P2/P3.",
+      "type": "observation",
+      "entities": [
+        "P0",
+        "P2",
+        "user",
+        "P1",
+        "P3",
+        "继续"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991407+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "AV",
+        "project",
+        "paper-review",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "ea75a20d-23c6-47ff-98f8-63754d0046b2",
+      "text": "User has an Obsidian vault for note-taking. | Involving: user",
+      "type": "world",
+      "entities": [
+        "Obsidian",
+        "note-taking"
+      ],
+      "context": "tool ecosystem",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011819+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_5",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "09ec2462-0560-4b42-89b1-3ce1af05a0ad",
+      "text": "User works across a Windows 10 host and Linux machines.",
+      "type": "observation",
+      "entities": [
+        "Windows 10",
+        "Linux",
+        "user",
+        "Tailscale",
+        "ZeroTier"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682364+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "1eb94f7a-3939-47b9-a094-d8d813becd8a",
+      "text": "User is concerned about C: drive space.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "C: drive"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011817+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "4873ac46-3710-4443-a545-e0336a2c1eeb",
+      "text": "User uses Docker image ghcr.io/vectorize-io/hindsight:latest for Hindsight.",
+      "type": "observation",
+      "entities": [
+        "LLM",
+        "Hermes memory",
+        "Hindsight",
+        "ghcr.io/vectorize-io/hindsight:latest",
+        "local_external",
+        "DeepSeek v4 Pro",
+        "Docker",
+        "hermes"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "6035177a-9560-46ab-ba7c-7fc8256bcaa5",
+      "text": "User reviews before writing and prefers concise output. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user",
+        "output"
+      ],
+      "context": "AI assistant workflow - Hermes + Claude Code",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.712373+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_3",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "ai-tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "19f20648-2696-4cd0-83f9-edcf94e913c7",
+      "text": "User values thorough verification after changes - checks imports, runs DIRECT mode tests, validates accuracy. | Involving: user",
+      "type": "world",
+      "entities": [
+        "imports",
+        "user",
+        "factual accuracy",
+        "DIRECT mode tests"
+      ],
+      "context": "code review preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021808+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_0",
+      "tags": [
+        "user-profile",
+        "code-review",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "1edb3642-a808-4f38-98cd-6b83b1d6557e",
+      "text": "User prefers code review reports with severity ranking (P0-P3) and clear fix descriptions.",
+      "type": "observation",
+      "entities": [
+        "fix descriptions",
+        "user",
+        "code review",
+        "P0-P3",
+        "severity ranking"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011808+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "code-review",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "c71ba787-a73e-4699-80f4-43de17abf465",
+      "text": "User prefers organized tables/lists for status overviews and clear installed vs pending breakdowns. | Involving: user",
+      "type": "world",
+      "entities": [
+        "tables",
+        "user",
+        "installed",
+        "lists",
+        "pending"
+      ],
+      "context": "disk space preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.031817+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_3",
+      "tags": [
+        "user-profile",
+        "environment",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "60f4dab2-5d80-4e5e-9acd-375d74c727be",
+      "text": "User appreciates playful/fun interactions between work (e.g., TTS singing, cute styles, entertainment) and does not want just all-business interactions. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user"
+      ],
+      "context": "communication style - fun interactions",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011818+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_4",
+      "tags": [
+        "user-profile",
+        "preferences",
+        "communication"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "2c8818bb-68e0-41e1-9744-697037d37095",
+      "text": "User is willing to move large dependencies (Camoufox, Playwright, HF cache) to D: drive to free up space on C:.",
+      "type": "observation",
+      "entities": [
+        "hermes",
+        "HF cache",
+        "Playwright",
+        "Camoufox",
+        "user",
+        "C: drive"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.667116+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "3bf067c2-b27e-4bf5-9e46-85b5ea31d4c5",
+      "text": "Reference DOIs must be verified via Crossref API; arXiv IDs must be verified via arXiv API. Never guess from memory.",
+      "type": "observation",
+      "entities": [
+        "arXiv ID",
+        "DOI",
+        "arXiv API",
+        "Crossref API"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021814+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "275370ba-b429-4c86-93e1-06bfb6dc2240",
+      "text": "User has a paper review workflow: review, write report with severity levels (P0-P3), fix P0/P1, then after user says '继续', fix P2/P3. | Involving: user",
+      "type": "world",
+      "entities": [
+        "继续",
+        "user",
+        "P3",
+        "P1",
+        "P2",
+        "P0"
+      ],
+      "context": "academic work - AV papers",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991407+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_4",
+      "tags": [
+        "AV",
+        "project",
+        "paper-review",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "01d8e2ab-c381-44e7-8469-136341cabd26",
+      "text": "User runs Hindsight in local_external mode.",
+      "type": "observation",
+      "entities": [
+        "Docker",
+        "LLM",
+        "DeepSeek v4 Pro",
+        "ghcr.io/vectorize-io/hindsight:latest",
+        "hermes",
+        "Hindsight",
+        "Hermes memory",
+        "local_external"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "8c87177f-6d97-46bb-b4de-b0729d2614dd",
+      "text": "User prefers code review reports with severity ranking (P0-P3) and clear fix descriptions. | Involving: user",
+      "type": "world",
+      "entities": [
+        "code review",
+        "P0-P3",
+        "severity ranking",
+        "user",
+        "fix descriptions"
+      ],
+      "context": "code review preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011808+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_0",
+      "tags": [
+        "user-profile",
+        "code-review",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "193bde28-efaf-4eed-a35d-8bd985789b7b",
+      "text": "User keeps a structured dev log in log.md.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "dev log",
+        "CLAUDE.md"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.031808+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "code-review",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "d27e74b5-d30a-4ec1-9c76-44963f95b1f1",
+      "text": "User keeps structured dev log in log.md. | Involving: user",
+      "type": "world",
+      "entities": [
+        "dev log",
+        "user",
+        "CLAUDE.md"
+      ],
+      "context": "code review preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.031808+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_0",
+      "tags": [
+        "user-profile",
+        "code-review",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "647c109b-59fd-454f-841e-8d5ccf601a67",
+      "text": "User uses Hindsight for long-term memory augmentation.",
+      "type": "observation",
+      "entities": [
+        "LLM",
+        "local_external",
+        "Docker",
+        "Hermes memory",
+        "Hindsight",
+        "ghcr.io/vectorize-io/hindsight:latest",
+        "DeepSeek v4 Pro",
+        "hermes"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682370+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "memory",
+        "environment",
+        "hindsight"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "37906aed-45d4-4828-82fb-1948c08d4629",
+      "text": "User values an action-first approach over suggestions.",
+      "type": "observation",
+      "entities": [
+        "organized tables/lists",
+        "factual accuracy",
+        "user",
+        "debugging",
+        "action-first approach"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682374+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "work-style",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "b320775e-868b-41bd-8493-6e2604ca4f44",
+      "text": "User reviews content before writing and prefers concise output.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "output"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.677120+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "ai-tools",
+        "workflow"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "6656a6f4-101a-4844-808a-c8d869858412",
+      "text": "User prefers action-first execution over suggestions.",
+      "type": "observation",
+      "entities": [
+        "suggestions",
+        "user",
+        "action-first approach"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021816+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "preferences",
+        "python"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "602f819d-1602-4177-bf42-437ca8e9221c",
+      "text": "User manages multiple machines using ZeroTier/Tailscale networking, working across a Windows 10 host and Linux machines. | Involving: user",
+      "type": "world",
+      "entities": [
+        "ZeroTier",
+        "Windows 10",
+        "Tailscale",
+        "Linux",
+        "user"
+      ],
+      "context": "environment setup - multi-machine",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.682364+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_1",
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "6e9db473-842c-4898-9c3c-03c89c6e0e44",
+      "text": "User concerned about C: drive space (~3.2 GB of Hermes tools/deps on C:) and willing to move large deps (Camoufox, Playwright, HF cache) to D: drive. | Involving: user | to free up space",
+      "type": "world",
+      "entities": [
+        "user",
+        "HF cache",
+        "Playwright",
+        "hermes",
+        "C: drive",
+        "Camoufox"
+      ],
+      "context": "multi-machine environment setup",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.667116+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_1",
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "8162f8b9-0d53-442f-b564-179e52a97f21",
+      "text": "User has a D: drive and is concerned about C: drive space. | Involving: user",
+      "type": "world",
+      "entities": [
+        "C: drive",
+        "user"
+      ],
+      "context": "disk space preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011817+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_3",
+      "tags": [
+        "user-profile",
+        "environment",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "1c6fe611-d4cc-4f97-8ec9-47330bdafdbe",
+      "text": "User concerned about C: drive space, as Hermes tools and dependencies consume approximately 3.2 GB on C:. | Involving: user",
+      "type": "world",
+      "entities": [
+        "C: drive",
+        "hermes",
+        "user"
+      ],
+      "context": "environment setup - multi-machine",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.692364+00:00",
+      "document_id": "450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694",
+      "metadata": {},
+      "chunk_id": "hermes_450cf4ff-bf2f-4e02-8fe3-dcab1d7e1694_1",
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "b8ab81a9-2f11-40c7-99c5-284b39677fb3",
+      "text": "User manages multiple machines with ZeroTier/Tailscale networking, works across Windows 10 host and Linux machines. | Involving: user",
+      "type": "world",
+      "entities": [
+        "Linux",
+        "user",
+        "Windows 10",
+        "Tailscale",
+        "ZeroTier"
+      ],
+      "context": "multi-machine environment setup",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.657116+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_1",
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "72b9bdf3-aad2-4a9f-bc6d-9dcc779e2cc3",
+      "text": "User uses `uv` for Python environment management instead of pip.",
+      "type": "observation",
+      "entities": [
+        "uv",
+        "user",
+        "Python environment management",
+        "pip"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011816+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "preferences",
+        "python"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "c135abe2-9f33-41a5-af28-24faa3814e25",
+      "text": "User reviews content before writing and prefers concise output. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user"
+      ],
+      "context": "AI assistant dual workflow",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:38.677120+00:00",
+      "document_id": "4fe1e516-f010-4a9a-b8a6-0c77b5486e8b",
+      "metadata": {},
+      "chunk_id": "hermes_4fe1e516-f010-4a9a-b8a6-0c77b5486e8b_3",
+      "tags": [
+        "user-profile",
+        "workflow",
+        "ai-tools"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "e0023db4-5851-4c8e-96ce-67f90ef9c748",
+      "text": "Reference DOIs must be verified via Crossref API; arXiv IDs must be verified via arXiv API. Never guess from memory. | Ensures accuracy of references.",
+      "type": "world",
+      "entities": [
+        "DOI",
+        "arXiv ID",
+        "Crossref API",
+        "arXiv API"
+      ],
+      "context": "academic paper review conventions",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021814+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_1",
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "7d69ee37-d60e-4eb5-8107-1a82b5fc8a3c",
+      "text": "User is willing to move large dependencies to D: drive to free up C: drive space.",
+      "type": "observation",
+      "entities": [
+        "C: drive",
+        "dependencies",
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021817+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "091795ae-7be2-46c2-b6d1-d844a2e7fc06",
+      "text": "The grasp-sim-pipeline is a PyBullet-based robotic grasping pipeline for multi-object pick-and-lift.",
+      "type": "observation",
+      "entities": [
+        "IK control",
+        "LOO",
+        "YOLOv8n-seg",
+        "PyBullet",
+        "grasp-sim-pipeline",
+        "teddy bear",
+        "multi-view camera fusion",
+        "duck",
+        "mask-size weighted median",
+        "cube"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981396+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "b0292dd8-6a3e-49d1-b2f1-47296d12d0ed",
+      "text": "The grasp-sim-pipeline is a PyBullet-based robotic grasping pipeline for multi-object pick-and-lift, using YOLOv8n-seg for perception, multi-view camera fusion with LOO+mask-size weighted median, and IK control. Objects: duck, teddy bear, cube.",
+      "type": "world",
+      "entities": [
+        "mask-size weighted median",
+        "PyBullet",
+        "IK control",
+        "cube",
+        "grasp-sim-pipeline",
+        "multi-view camera fusion",
+        "YOLOv8n-seg",
+        "duck",
+        "LOO",
+        "teddy bear"
+      ],
+      "context": "project: grasp-sim-pipeline overview",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981396+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_0",
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "b7d63168-b8d9-4f5b-886e-6e9baf9233a0",
+      "text": "The grasp-sim-pipeline uses YOLOv8n-seg for perception.",
+      "type": "observation",
+      "entities": [
+        "duck",
+        "mask-size weighted median",
+        "teddy bear",
+        "PyBullet",
+        "IK control",
+        "multi-view camera fusion",
+        "YOLOv8n-seg",
+        "cube",
+        "grasp-sim-pipeline",
+        "LOO"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981396+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "256a28e9-57a2-4a23-af37-3d2866bf2ffc",
+      "text": "User uses `uv` for Python environment management instead of pip. | Involving: user",
+      "type": "world",
+      "entities": [
+        "Python environment management",
+        "pip",
+        "uv",
+        "user"
+      ],
+      "context": "Python tool preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011816+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_2",
+      "tags": [
+        "user-profile",
+        "preferences",
+        "python"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "28867901-d407-4cb9-baad-9f2fcf216faf",
+      "text": "On 2026-05-25, Teddy was the hardest object due to out-of-focus YOLO mask bias.",
+      "type": "observation",
+      "entities": [
+        "teddy",
+        "YOLO"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.001404+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "16fe78c0-e089-405f-a3f2-f2bee61c73c8",
+      "text": "The grasp-sim-pipeline uses a waist detection algorithm for grasp heights, which replaced hardcoded grasp heights.",
+      "type": "observation",
+      "entities": [
+        "grasp-sim-pipeline",
+        "waist detection algorithm"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991396+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "3b2bb7f9-300c-4e15-8c59-5904968e7dd3",
+      "text": "Output path for papers is D:\\Claude\\Doc\\. | Involving: user",
+      "type": "world",
+      "entities": [
+        "user",
+        "CLAUDE.md"
+      ],
+      "context": "academic work - AV papers",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.001407+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_4",
+      "tags": [
+        "AV",
+        "project",
+        "paper-review",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "0ca87a89-d0f7-4fd4-b016-efbfb40fcf04",
+      "text": "Object configurations for grasp-sim-pipeline: duck (scale=1.0, height=0.08m, grasp ratio=25%, force=500N), teddy (scale=1.0, height=0.09m, grasp ratio=35%, force=800N), cube (scale=1.0, height=0.07m, grasp ratio=30%, force=1000N)",
+      "type": "experience",
+      "entities": [
+        "cube",
+        "grasp-sim-pipeline",
+        "duck",
+        "teddy"
+      ],
+      "context": "project: grasp-sim-pipeline object config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981404+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_2",
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "750013ea-9fcd-46ea-b032-a53f933a251e",
+      "text": "User prefers action-first execution over suggestions. | Involving: user",
+      "type": "world",
+      "entities": [
+        "suggestions",
+        "action-first approach",
+        "user"
+      ],
+      "context": "Python tool preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021816+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_2",
+      "tags": [
+        "user-profile",
+        "preferences",
+        "python"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "6fa15483-a82d-43c8-9e4b-899641507d2d",
+      "text": "The default camera has a cy_offset of -54.",
+      "type": "observation",
+      "entities": [
+        "cy_offset",
+        "default camera"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.011402+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "51231a1c-e3c1-45d9-8a3a-281b079a8131",
+      "text": "The grasp-sim-pipeline uses IK control.",
+      "type": "observation",
+      "entities": [
+        "PyBullet",
+        "duck",
+        "grasp-sim-pipeline",
+        "multi-view camera fusion",
+        "mask-size weighted median",
+        "IK control",
+        "teddy bear",
+        "YOLOv8n-seg",
+        "LOO",
+        "cube"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981396+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "affb3b99-fbc2-4ab5-bb64-4d2fd00102ff",
+      "text": "Academic paper review convention standardizes severity indication using levels L1-L5, avoiding ambiguous symbols like stars, checkmarks, or circles.",
+      "type": "observation",
+      "entities": [
+        "L1-L5"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011814+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "b6643bc6-2eec-47f0-9cd3-50c7be00a549",
+      "text": "The grasp-sim-pipeline uses multi-view camera fusion with LOO+mask-size weighted median.",
+      "type": "observation",
+      "entities": [
+        "cube",
+        "mask-size weighted median",
+        "PyBullet",
+        "teddy bear",
+        "multi-view camera fusion",
+        "grasp-sim-pipeline",
+        "duck",
+        "YOLOv8n-seg",
+        "IK control",
+        "LOO"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981396+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "80805e91-7d43-4446-9684-72708a382e45",
+      "text": "User is willing to move large dependencies to D: drive. | Involving: user | to free up C: drive space",
+      "type": "world",
+      "entities": [
+        "dependencies",
+        "C: drive",
+        "user"
+      ],
+      "context": "disk space preferences",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.021817+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_3",
+      "tags": [
+        "user-profile",
+        "environment",
+        "preferences"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "bfa27207-47fa-43ac-a891-6a8e1e061641",
+      "text": "Multi-round review process: review → fix → re-review → deepen.",
+      "type": "observation",
+      "entities": [
+        "multi-round review"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.041814+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "d6369d0e-26e6-4374-885e-c06d0b3359ae",
+      "text": "Multi-round review process: review → fix → re-review → deepen. | Iterative review methodology.",
+      "type": "world",
+      "entities": [
+        "multi-round review"
+      ],
+      "context": "academic paper review conventions",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.041814+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_1",
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "d18289ab-6f0a-4c31-aaff-ec6824ecb793",
+      "text": "Cube configuration for grasp-sim-pipeline: scale=1.0, height=0.07m, grasp ratio=30%, force=1000N.",
+      "type": "observation",
+      "entities": [
+        "cube",
+        "duck",
+        "teddy",
+        "grasp-sim-pipeline"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981404+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "07a3a829-1476-4316-aaeb-6f5f813cb4e8",
+      "text": "diary-bot is part of a portfolio alongside grasp-sim-pipeline and AV academic papers.",
+      "type": "observation",
+      "entities": [
+        "grasp-sim-pipeline",
+        "kingmt",
+        "AV papers",
+        "diary-bot"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981405+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "bot"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "5faacc37-2310-40e8-b180-6f62545424f3",
+      "text": "The grasp-sim-pipeline operates on objects: duck, teddy bear, cube.",
+      "type": "observation",
+      "entities": [
+        "multi-view camera fusion",
+        "YOLOv8n-seg",
+        "LOO",
+        "mask-size weighted median",
+        "teddy bear",
+        "grasp-sim-pipeline",
+        "IK control",
+        "cube",
+        "duck",
+        "PyBullet"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981396+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "efd70cac-396b-4e00-aa09-92ece52dca87",
+      "text": "Multi-view fusion for grasp pose estimation uses 4 camera angles with iterative targeting (up to 3 iterations, converging at less than 2cm shift).",
+      "type": "observation",
+      "entities": [
+        "multi-view fusion",
+        "camera angles"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991402+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "e0b6173a-c6a3-44fd-906d-a16624e19647",
+      "text": "Output path for papers is D:\\Claude\\Doc\\.",
+      "type": "observation",
+      "entities": [
+        "user",
+        "CLAUDE.md"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.001407+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "AV",
+        "project",
+        "paper-review",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "0250efa7-b87e-48ea-9d60-050587b1d024",
+      "text": "The grasp-sim-pipeline achieved a success rate of 3/3.",
+      "type": "observation",
+      "entities": [
+        "grasp-sim-pipeline",
+        "waist detection algorithm"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991396+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "90538246-1ea7-447e-9081-648cbc2b02c9",
+      "text": "Teddy was the hardest object due to out-of-focus YOLO mask bias",
+      "type": "experience",
+      "entities": [
+        "YOLO",
+        "teddy"
+      ],
+      "context": "project: grasp-sim-pipeline object config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.001404+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_2",
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "ff2cc7a4-d5d1-4fa2-ae4d-481086d5c519",
+      "text": "The grasp-sim-pipeline achieved 3/3 success with a waist detection algorithm that replaced hardcoded grasp heights.",
+      "type": "world",
+      "entities": [
+        "waist detection algorithm",
+        "grasp-sim-pipeline"
+      ],
+      "context": "project: grasp-sim-pipeline overview",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991396+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_0",
+      "tags": [
+        "grasping",
+        "project",
+        "robotics",
+        "pybullet"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "2206f54a-971a-4726-8e64-3a159bf0905c",
+      "text": "Convergence threshold for grasp-sim-pipeline set to 2e-3 to 1e-1 (set on 2026-05-25).",
+      "type": "observation",
+      "entities": null,
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991404+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "be3a917f-e498-4139-bed4-9875b03858b4",
+      "text": "Fine steps parameter for grasp-sim-pipeline set to 600-800 (set on 2026-05-25).",
+      "type": "observation",
+      "entities": null,
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991404+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "733c1343-deac-497a-bb2e-eae64b747bac",
+      "text": "Paper output directory is D:\\Claude\\.",
+      "type": "observation",
+      "entities": [
+        "D:\\Claude\\"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.031814+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "a9ece640-be8b-440b-bba6-8c9de2031781",
+      "text": "Waist height detection uses Z-slice projection along the gripper closing direction.",
+      "type": "observation",
+      "entities": [
+        "waist height detection",
+        "Z-slice projection",
+        "gripper closing direction"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.021402+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "19cf5858-f9e0-4620-b82c-139153463487",
+      "text": "Duck configuration for grasp-sim-pipeline: scale=1.0, height=0.08m, grasp ratio=25%, force=500N.",
+      "type": "observation",
+      "entities": [
+        "grasp-sim-pipeline",
+        "teddy",
+        "duck",
+        "cube"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981404+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "285933a5-8d91-4579-89cd-aef371f334e8",
+      "text": "Hermes tools and dependencies consume approximately 3.2 GB on C: drive.",
+      "type": "observation",
+      "entities": [
+        "C: drive",
+        "hermes",
+        "user"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:01.692364+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "user-profile",
+        "environment",
+        "devops"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "38400af4-271f-48f4-bcaa-80312710c896",
+      "text": "Academic paper review convention uses severity levels L1-L5; not star, checkmark, or circle emoji. | Standardizes severity indication without ambiguous symbols.",
+      "type": "world",
+      "entities": [
+        "L1-L5"
+      ],
+      "context": "academic paper review conventions",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.011814+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_1",
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "a055144d-a825-4ae8-ae23-568d1e56ac93",
+      "text": "The grasp-sim-pipeline FINGER_OFFSET constant is 0.105.",
+      "type": "observation",
+      "entities": [
+        "END_EFFECTOR_INDEX",
+        "grasp-sim-pipeline",
+        "FINGER_OFFSET",
+        "TABLE_Z"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981402+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "08a830d3-1ba6-41d8-ba27-30bad856ce18",
+      "text": "Teddy configuration for grasp-sim-pipeline: scale=1.0, height=0.09m, grasp ratio=35%, force=800N.",
+      "type": "observation",
+      "entities": [
+        "cube",
+        "grasp-sim-pipeline",
+        "duck",
+        "teddy"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981404+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "e42c9b87-5d53-47bc-971e-5c2c72626389",
+      "text": "Multi-view fusion uses 4 camera angles with iterative targeting (up to 3 iterations, converges at <2cm shift). | Approach for grasp pose estimation.",
+      "type": "world",
+      "entities": [
+        "camera angles",
+        "multi-view fusion"
+      ],
+      "context": "project: grasp-sim-pipeline technical config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991402+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_1",
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "d3ce7433-17ee-4814-9663-5c9fdf8b72a6",
+      "text": "Key constants for grasp-sim-pipeline: TABLE_Z=0.625, FINGER_OFFSET=0.105, END_EFFECTOR_INDEX=8. | Technical configuration parameters.",
+      "type": "world",
+      "entities": [
+        "grasp-sim-pipeline",
+        "FINGER_OFFSET",
+        "END_EFFECTOR_INDEX",
+        "TABLE_Z"
+      ],
+      "context": "project: grasp-sim-pipeline technical config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981402+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_1",
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "5ba07109-8f56-49c3-8222-90121b01fdbb",
+      "text": "YOLO mask erosion uses 1 iteration with a 3x3 kernel, followed by nearest-neighbor resize.",
+      "type": "observation",
+      "entities": [
+        "nearest-neighbor resize",
+        "YOLO mask erosion"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.001402+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "49ea23fb-8ddf-46de-8a16-8c7ceff232af",
+      "text": "The grasp-sim-pipeline TABLE_Z constant is 0.625.",
+      "type": "observation",
+      "entities": [
+        "grasp-sim-pipeline",
+        "TABLE_Z",
+        "END_EFFECTOR_INDEX",
+        "FINGER_OFFSET"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981402+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "2f819056-fe4e-4b06-9c46-42f690c0c84e",
+      "text": "Waist height detection uses Z-slice projection along gripper closing direction. | Method for detecting waist height.",
+      "type": "world",
+      "entities": [
+        "Z-slice projection",
+        "waist height detection",
+        "gripper closing direction"
+      ],
+      "context": "project: grasp-sim-pipeline technical config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.021402+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_1",
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "233e1c0b-746c-45fd-9c53-8066195533a3",
+      "text": "YOLO mask erosion uses 1 iteration with 3x3 kernel, then nearest-neighbor resize. | Mask processing step.",
+      "type": "world",
+      "entities": [
+        "YOLO mask erosion",
+        "nearest-neighbor resize"
+      ],
+      "context": "project: grasp-sim-pipeline technical config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.001402+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_1",
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "33406c19-2b03-48ae-803a-d388ffcbb2f1",
+      "text": "Fine steps parameter set to 600-800, convergence threshold set to 2e-3 to 1e-1",
+      "type": "experience",
+      "entities": null,
+      "context": "project: grasp-sim-pipeline object config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.991404+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_2",
+      "tags": [
+        "project",
+        "robotics",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "968b8920-c6e1-4254-9f79-5bffa49e4fc4",
+      "text": "The grasp-sim-pipeline END_EFFECTOR_INDEX constant is 8.",
+      "type": "observation",
+      "entities": [
+        "END_EFFECTOR_INDEX",
+        "TABLE_Z",
+        "grasp-sim-pipeline",
+        "FINGER_OFFSET"
+      ],
+      "context": null,
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:48.981402+00:00",
+      "document_id": null,
+      "metadata": {},
+      "chunk_id": null,
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "1f813f2c-21c6-4ae6-be9f-3f326de563d0",
+      "text": "Default camera has cy_offset=-54. | Camera calibration parameter.",
+      "type": "world",
+      "entities": [
+        "default camera",
+        "cy_offset"
+      ],
+      "context": "project: grasp-sim-pipeline technical config",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:49.011402+00:00",
+      "document_id": "87aefb3a-c9b8-47ea-b1da-e4451385c906",
+      "metadata": {},
+      "chunk_id": "hermes_87aefb3a-c9b8-47ea-b1da-e4451385c906_1",
+      "tags": [
+        "project",
+        "robotics",
+        "technical",
+        "config"
+      ],
+      "source_fact_ids": null
+    },
+    {
+      "id": "ac8346dd-6a79-48e2-a15b-180780522e31",
+      "text": "Paper output directory is D:\\Claude\\. | Specifies where papers are saved.",
+      "type": "world",
+      "entities": [
+        "D:\\Claude\\"
+      ],
+      "context": "academic paper review conventions",
+      "occurred_start": null,
+      "occurred_end": null,
+      "mentioned_at": "2026-05-25T10:04:56.031814+00:00",
+      "document_id": "52d6b5ba-384a-4392-bd60-d3c5ec7ab9af",
+      "metadata": {},
+      "chunk_id": "hermes_52d6b5ba-384a-4392-bd60-d3c5ec7ab9af_1",
+      "tags": [
+        "user-profile",
+        "preferences",
+        "academic"
+      ],
+      "source_fact_ids": null
+    }
+  ]
+}
