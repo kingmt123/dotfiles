@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "tag": "restored-backup",
+      "count": 120
+    },
+    {
+      "tag": "user-profile",
+      "count": 99
+    },
+    {
+      "tag": "preferences",
+      "count": 44
+    },
+    {
+      "tag": "project",
+      "count": 41
+    },
+    {
+      "tag": "robotics",
+      "count": 32
+    },
+    {
+      "tag": "environment",
+      "count": 26
+    },
+    {
+      "tag": "workflow",
+      "count": 25
+    },
+    {
+      "tag": "config",
+      "count": 23
+    },
+    {
+      "tag": "hindsight",
+      "count": 21
+    },
+    {
+      "tag": "identity",
+      "count": 21
+    },
+    {
+      "tag": "academic",
+      "count": 13
+    },
+    {
+      "tag": "technical",
+      "count": 12
+    },
+    {
+      "tag": "ai-tools",
+      "count": 11
+    },
+    {
+      "tag": "work-style",
+      "count": 11
+    },
+    {
+      "tag": "system",
+      "count": 10
+    },
+    {
+      "tag": "grasping",
+      "count": 9
+    },
+    {
+      "tag": "pybullet",
+      "count": 9
+    },
+    {
+      "tag": "devops",
+      "count": 8
+    },
+    {
+      "tag": "github",
+      "count": 8
+    },
+    {
+      "tag": "memory",
+      "count": 8
+    },
+    {
+      "tag": "research",
+      "count": 8
+    },
+    {
+      "tag": "AV",
+      "count": 6
+    },
+    {
+      "tag": "code-review",
+      "count": 6
+    },
+    {
+      "tag": "diagnostic",
+      "count": 6
+    },
+    {
+      "tag": "infrastructure",
+      "count": 6
+    },
+    {
+      "tag": "paper-review",
+      "count": 6
+    },
+    {
+      "tag": "tools",
+      "count": 6
+    },
+    {
+      "tag": "hermes",
+      "count": 4
+    },
+    {
+      "tag": "pitfall",
+      "count": 4
+    },
+    {
+      "tag": "python",
+      "count": 4
+    },
+    {
+      "tag": "bot",
+      "count": 3
+    },
+    {
+      "tag": "claude-code",
+      "count": 2
+    },
+    {
+      "tag": "communication",
+      "count": 2
+    },
+    {
+      "tag": "deepseek",
+      "count": 2
+    },
+    {
+      "tag": "test",
+      "count": 2
+    }
+  ],
+  "total": 35,
+  "limit": 100,
+  "offset": 0
+}

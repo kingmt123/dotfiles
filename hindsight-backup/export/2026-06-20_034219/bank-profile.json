@@ -1,0 +1,11 @@
+{
+  "bank_id": "hermes",
+  "name": "hermes",
+  "disposition": {
+    "skepticism": 3,
+    "literalism": 3,
+    "empathy": 3
+  },
+  "mission": "",
+  "background": ""
+}

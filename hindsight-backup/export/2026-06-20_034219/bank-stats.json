@@ -1,0 +1,43 @@
+{
+  "bank_id": "hermes",
+  "total_nodes": 166,
+  "total_links": 5498,
+  "total_documents": 8,
+  "nodes_by_fact_type": {
+    "experience": 19,
+    "observation": 23,
+    "world": 124
+  },
+  "links_by_link_type": {
+    "temporal": 1449,
+    "entity": 2384,
+    "semantic": 1665
+  },
+  "links_by_fact_type": {
+    "experience": 345,
+    "world": 5153
+  },
+  "links_breakdown": {
+    "experience": {
+      "temporal": 181,
+      "entity": 110,
+      "semantic": 54
+    },
+    "world": {
+      "temporal": 1268,
+      "semantic": 1611,
+      "entity": 2274
+    }
+  },
+  "pending_operations": 1,
+  "failed_operations": 0,
+  "operations_by_status": {
+    "completed": 23,
+    "pending": 1,
+    "processing": 1
+  },
+  "last_consolidated_at": "2026-06-19T19:40:20.284708+00:00",
+  "pending_consolidation": 120,
+  "failed_consolidation": 0,
+  "total_observations": 23
+}
